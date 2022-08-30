@@ -1,7 +1,7 @@
 /*
  * Author: Judy Zhang
  * Course: CSCI-1135
- * Instructor: Professor Maryash
+ * Instructor: Professor Zamasky
  * Assignment: Task A. Input validation. Lab2A
  * Program asks the user for an integer in thr range of 0 to 100, if the number is out of range the 
  * program asks the user to renter until a valid number is input. After a valid value is obtained,
