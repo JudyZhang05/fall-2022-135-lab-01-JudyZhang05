@@ -1,7 +1,7 @@
 /*
  * Author: Judy Zhang 
  * Course: CSCI-135 
- * Instructor: Professor Maryash 
+ * Instructor: Professor Zamasky 
  * Assignment: Task C. A leap year or a common year? Lab1C
  * The program asks the user to input an integer representing a year number. If the input year is a leap year, it should print Leap year, otherwise, print Common year.
  */
