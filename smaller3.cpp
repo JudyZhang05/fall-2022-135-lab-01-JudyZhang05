@@ -1,7 +1,7 @@
 /*
  * Author: Judy Zhang
  * Course: CSCI-135 
- * Instructor: Professor Maryash 
+ * Instructor: Professor Zamasky 
  * Assignment: Task B. Find the smaller of three integers.
  * Program asks user for three numbers then compares them to print out the lower one of them all. 
  */
