@@ -1,7 +1,7 @@
 /*
  * Author: Judy Zhang 
  * Course: CSCI-135 
- * Instructor: Professor Maryash 
+ * Instructor: Professor Zamasky 
  * Assignment: Task D. Number of days in a given month Lab1D
  * Program asks the user the year and the month and prints the number of days in that month.
  */
