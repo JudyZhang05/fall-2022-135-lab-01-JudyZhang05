@@ -1,7 +1,7 @@
 /* 
  * Author: Judy Zhang
  * Course: CSCI-135
- * Instructor: Professor Maryash
+ * Instructor: Professor Zamasky
  * Assignment: Task A. Find the smaller of two integers.
  * Program asks user for two numbers then compares them to print out the lower number.
  */
