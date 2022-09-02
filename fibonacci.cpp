@@ -24,4 +24,4 @@ int main()
 /*
 At two billions the fibonacci sequence starts to diverge from what they should be; becoming large negative
 numbers and no longer following the fibonacci sequence. What's happening is that c++ is reaching it's value
-of INT_MAX which is around 2 billon, thus the numbers are diverging to combat that.
+of INT_MAX which is around 2 billon, thus the numbers are diverging to combat that. */
