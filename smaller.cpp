@@ -5,7 +5,7 @@
  * Assignment: Task A. Find the smaller of two integers.
  * Program asks user for two numbers then compares them to print out the lower number.
  */
- //test2
+
 #include <iostream>
 using namespace std;
 
